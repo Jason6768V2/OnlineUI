@@ -1,0 +1,9 @@
+name: OnlineUI
+main: Jason6768V2\Online UI\Main
+api: [3.0.0]
+version: 1.0
+author: Jason6768V2
+
+commands:
+ online:
+  description: "Drop down GUI To see Online Players | Made by Jason6768V2
